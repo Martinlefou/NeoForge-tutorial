@@ -26,6 +26,9 @@ public class ModCreativeModeTabs {
                             output.accept(ModItems.BISMUTH);
                             output.accept(ModItems.RAW_BISMUTH);
                             output.accept(ModItems.CHISEL);
+                            output.accept(ModItems.RADISH);
+                            output.accept(ModItems.STARLIGHT_ASHES);
+                            output.accept(ModItems.FROSTFIRE_ICE);
 
                         }).build());
     }
@@ -39,6 +42,7 @@ public class ModCreativeModeTabs {
                         .title(Component.translatable("creativetab.tutorialmod.bismuth_blocks"))
                         .displayItems((itemDisplayParameters, output) -> {
                             output.accept(ModBlocks.BISMUTH_BLOCK);
+                            output.accept(ModBlocks.MAGIC_BLOCK);
                             output.accept(ModBlocks.BISMUTH_ORE);
                             output.accept(ModBlocks.BISMUTH_DEEPSLATE_ORE);
 
