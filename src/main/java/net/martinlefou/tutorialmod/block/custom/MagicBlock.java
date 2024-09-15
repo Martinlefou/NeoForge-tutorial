@@ -1,6 +1,7 @@
 package net.martinlefou.tutorialmod.block.custom;
 
 import net.martinlefou.tutorialmod.item.ModItems;
+import net.martinlefou.tutorialmod.util.ModTags;
 import net.minecraft.core.BlockPos;
 import net.minecraft.network.chat.Component;
 import net.minecraft.sounds.SoundEvents;
@@ -35,7 +36,7 @@ public class MagicBlock extends Block {
     @Override
     public void stepOn(Level level, BlockPos pos, BlockState state, Entity entity) {
         if (entity instanceof ItemEntity itemEntity) {
-            if (itemEntity.getItem().getItem() == ModItems.RAW_BISMUTH.get()) {
+            if (isValidItem(itemEntity.getItem())) {
                 itemEntity.setItem(new ItemStack(Items.DIAMOND, itemEntity.getItem().getCount()));
             }
         }
@@ -47,6 +48,10 @@ public class MagicBlock extends Block {
         }
 
         super.stepOn(level, pos, state, entity);
+    }
+
+    private boolean isValidItem(ItemStack item) {
+        return item.is(ModTags.Items.TRANSFORMABLE_ITEMS);
     }
 
     @Override
