@@ -12,5 +12,11 @@
   "block.tutorialmod.bismuth_deepslate_ore": "Bismuth Deepslate Ore",
 
   "creativetab.tutorialmod.bismuth_items": "Bismuth Items",
-  "creativetab.tutorialmod.bismuth_blocks": "Bismuth Blocks"
+  "creativetab.tutorialmod.bismuth_blocks": "Bismuth Blocks",
+
+  "tooltip.tutorialmod.magic_block.tooltip": "This block is very §9MAGICAL§r",
+
+  "tooltip.tutorialmod.chisel.shift_down": "This item chisel's blocks!",
+  "tooltip.tutorialmod.radish.tooltip": "This radish is tasty!",
+  "tooltip.tutorialmod.chisel": "Press §eShift§r to learn more!"
 }
