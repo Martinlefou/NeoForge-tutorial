@@ -6,6 +6,14 @@
   "item.tutorialmod.starlight_ashes": "Starlight Ashes",
   "item.tutorialmod.chisel": "Chisel",
 
+  "item.tutorialmod.bismuth_sword": "Bismuth Sword",
+  "item.tutorialmod.bismuth_pickaxe": "Bismuth Pickaxe",
+  "item.tutorialmod.bismuth_axe": "Bismuth Axe",
+  "item.tutorialmod.bismuth_shovel": "Bismuth Shovel",
+  "item.tutorialmod.bismuth_hoe": "Bismuth Hoe",
+
+  "item.tutorialmod.bismuth_hammer": "Bismuth Hammer",
+
   "block.tutorialmod.bismuth_block": "Block of bismuth",
   "block.tutorialmod.magic_block": "Magic Block",
   "block.tutorialmod.bismuth_ore": "Bismuth Ore",
