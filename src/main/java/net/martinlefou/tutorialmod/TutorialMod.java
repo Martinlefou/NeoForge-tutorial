@@ -1,6 +1,7 @@
 package net.martinlefou.tutorialmod;
 
 import net.martinlefou.tutorialmod.block.ModBlocks;
+import net.martinlefou.tutorialmod.component.ModDataComponents;
 import net.martinlefou.tutorialmod.item.ModCreativeModeTabs;
 import net.martinlefou.tutorialmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -42,6 +43,8 @@ public class TutorialMod {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+
+        ModDataComponents.register(modEventBus);
 
         // Register the item to a creative tab
         modEventBus.addListener(this::addCreative);
