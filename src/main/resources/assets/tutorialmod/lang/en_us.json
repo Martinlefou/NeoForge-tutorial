@@ -14,6 +14,12 @@
 
   "item.tutorialmod.bismuth_hammer": "Bismuth Hammer",
 
+  "item.tutorialmod.bismuth_helmet": "Bismuth Helmet",
+  "item.tutorialmod.bismuth_chestplate": "Bismuth Chestplate",
+  "item.tutorialmod.bismuth_leggings": "Bismuth Legging",
+  "item.tutorialmod.bismuth_boots": "Bismuth Boots",
+
+
   "block.tutorialmod.bismuth_block": "Block of bismuth",
   "block.tutorialmod.magic_block": "Magic Block",
   "block.tutorialmod.bismuth_ore": "Bismuth Ore",

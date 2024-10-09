@@ -1,0 +1,45 @@
+{
+  "item.tutorialmod.bismuth": "Bismuth",
+  "item.tutorialmod.raw_bismuth": "Bismuth Brut",
+  "item.tutorialmod.radish": "Radis",
+  "item.tutorialmod.frostfire_ice": "Glace Brulante",
+  "item.tutorialmod.starlight_ashes": "Cendre d'étoiles",
+  "item.tutorialmod.chisel": "Maillet",
+
+  "item.tutorialmod.bismuth_sword": "Epée de Bismuth",
+  "item.tutorialmod.bismuth_pickaxe": "Pioche de Bismuth",
+  "item.tutorialmod.bismuth_axe": "Hache de Bismuth",
+  "item.tutorialmod.bismuth_shovel": "Pelle de Bismuth",
+  "item.tutorialmod.bismuth_hoe": "Houe de Bismuth",
+
+  "item.tutorialmod.bismuth_hammer": "Marteau de Bismuth",
+
+  "block.tutorialmod.bismuth_block": "Bloc de Bismuth",
+  "block.tutorialmod.magic_block": "Bloc Magique",
+  "block.tutorialmod.bismuth_ore": "Minerai de Bismuth",
+  "block.tutorialmod.bismuth_deepslate_ore": "Minerai des profondeurs de Bismuth",
+
+  "block.tutorialmod.bismuth_stairs": "Escaliers de Bismuth",
+  "block.tutorialmod.bismuth_slab": "Dalle de Bismuth",
+
+  "block.tutorialmod.bismuth_button": "Boutton de Bismuth",
+  "block.tutorialmod.bismuth_pressure_plate": "Plaque de Pression de Bismuth",
+
+  "block.tutorialmod.bismuth_fence": "Portaille de Bismuth",
+  "block.tutorialmod.bismuth_fence_gate": "Portillon de Bismuth",
+  "block.tutorialmod.bismuth_wall": "Mur de Bismuth",
+
+  "block.tutorialmod.bismuth_door": "Porte de Bismuth",
+  "block.tutorialmod.bismuth_trapdoor": "Trappe de Bismuth",
+
+  "block.tutorialmod.bismuth_lamp": "Lampe de Bismuth",
+
+  "creativetab.tutorialmod.bismuth_items": "Items de Bismuth",
+  "creativetab.tutorialmod.bismuth_blocks": "Blocs de Bismuth",
+
+  "tooltip.tutorialmod.magic_block.tooltip": "Ce bloc est très §9MAGIQUE§r",
+
+  "tooltip.tutorialmod.chisel.shift_down": "Cet Item taille des Blocs",
+  "tooltip.tutorialmod.radish.tooltip": "Ce Radis a l'air bon",
+  "tooltip.tutorialmod.chisel": "Appuie sur §eShift§r pour en apprendre plus!"
+}
