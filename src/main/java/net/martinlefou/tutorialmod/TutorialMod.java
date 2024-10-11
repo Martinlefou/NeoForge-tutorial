@@ -4,6 +4,7 @@ import net.martinlefou.tutorialmod.block.ModBlocks;
 import net.martinlefou.tutorialmod.component.ModDataComponents;
 import net.martinlefou.tutorialmod.item.ModCreativeModeTabs;
 import net.martinlefou.tutorialmod.item.ModItems;
+import net.martinlefou.tutorialmod.util.ModItemProperties;
 import net.minecraft.world.item.CreativeModeTabs;
 import org.slf4j.Logger;
 
@@ -81,6 +82,7 @@ public class TutorialMod {
         @SubscribeEvent
         public static void onClientSetup(FMLClientSetupEvent event) {
 
+            ModItemProperties.addCustomItemProperties();
         }
     }
 }
