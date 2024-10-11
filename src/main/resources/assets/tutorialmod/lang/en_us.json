@@ -19,6 +19,8 @@
   "item.tutorialmod.bismuth_leggings": "Bismuth Legging",
   "item.tutorialmod.bismuth_boots": "Bismuth Boots",
 
+  "item.tutorialmod.kaupen_armor_trim_smithing_template": "Kaupen Trim Template",
+
   "item.tutorialmod.bismuth_horse_armor": "Bismuth Horse Armor",
 
 
@@ -49,5 +51,8 @@
 
   "tooltip.tutorialmod.chisel.shift_down": "This item chisel's blocks!",
   "tooltip.tutorialmod.radish.tooltip": "This radish is tasty!",
-  "tooltip.tutorialmod.chisel": "Press §eShift§r to learn more!"
+  "tooltip.tutorialmod.chisel": "Press §eShift§r to learn more!",
+
+  "trim_pattern.tutorialmod.kaupen": "Kaupen Armor Trim",
+  "trim_material.tutorialmod.bismuth": "Bismuth Material"
 }

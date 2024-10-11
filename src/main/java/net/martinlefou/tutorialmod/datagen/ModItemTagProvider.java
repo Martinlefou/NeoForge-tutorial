@@ -45,5 +45,10 @@ public class ModItemTagProvider extends ItemTagsProvider {
                 .add(ModItems.BISMUTH_CHESTPLATE.get())
                 .add(ModItems.BISMUTH_LEGGINGS.get())
                 .add(ModItems.BISMUTH_BOOTS.get());
+
+        this.tag(ItemTags.TRIM_MATERIALS)
+                .add(ModItems.BISMUTH.get());
+        this.tag(ItemTags.TRIM_TEMPLATES)
+                .add(ModItems.KAUPEN_SMITHING_TEMPLATE.get());
     }
 }
